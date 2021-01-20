@@ -26,8 +26,6 @@ $ open XOR.vcd
 |0|1|1|
 |1|1|0|
 
-}
-
 #### Test Result on gtkwave
 
-<img src='./output.png' width=400>
+<img src='./output.png' width='500'>
